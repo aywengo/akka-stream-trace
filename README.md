@@ -1,4 +1,7 @@
 
+[![Gitter Chat](http://img.shields.io/badge/chat-online-brightgreen.svg)](https://gitter.im/akka-stream-trace)
+
+
 Htrace extension for akka http and akka streams
 ==============
 prerequistes: 
